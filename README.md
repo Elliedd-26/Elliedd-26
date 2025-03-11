@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Qianyi!
 
-<div align="left">
-  <img src="profile.JPG" alt="My Profile Picture" width="150px" style="border-radius: 50%; border: 3px solid #c8a2c8;">
-</div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40px"/>
+
 
 🚀 UX/UI Designer | Frontend Developer | Researcher  
 🌍 Based in Toronto, Canada  
