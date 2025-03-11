@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Qianyi!
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40px"/>
+<div align="left">
+  <img src="figma.svg" alt="Figma" width="40px"/>
+  <img src="html.svg" alt="HTML" width="40px"/>
+  <img src="css.svg" alt="CSS" width="40px"/>
+</div>
+  
 
 
 🚀 UX/UI Designer | Frontend Developer | Researcher  
