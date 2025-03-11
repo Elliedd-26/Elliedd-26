@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Qianyi!
 
-<!--
-**Elliedd-26/Elliedd-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img src="profile.JPG" alt="My Profile Picture" width="150px" style="border-radius: 50%; border: 3px solid #c8a2c8;">
+</div>
 
-Here are some ideas to get you started:
+🚀 UX/UI Designer | Frontend Developer | Researcher  
+🌍 Based in Toronto, Canada  
+💡 Passionate about user-centered design and intuitive digital experiences  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with Me
+📷 **GitHub:** [github.com/Elliedd-26](https://github.com/Elliedd-26)  
+💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
+🎨 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
+
+---
+
+### 🚀 **Let’s Connect & Build Something Amazing!**
